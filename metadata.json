@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Editor",
+  "description": "A modern, AI-powered photo editor built with React and Gemini. Easily apply filters, transformations, and leverage AI to remove backgrounds or objects from your images.",
+  "requestFramePermissions": []
+}
